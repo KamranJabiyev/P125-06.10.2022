@@ -1,0 +1,13 @@
+D:\P125\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.exe
+D:\P125\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.deps.json
+D:\P125\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.runtimeconfig.json
+D:\P125\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.runtimeconfig.dev.json
+D:\P125\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.dll
+D:\P125\ClassObject\ClassObject\bin\Debug\netcoreapp3.1\ClassObject.pdb
+D:\P125\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.csprojAssemblyReference.cache
+D:\P125\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.AssemblyInfoInputs.cache
+D:\P125\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.AssemblyInfo.cs
+D:\P125\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.csproj.CoreCompileInputs.cache
+D:\P125\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.dll
+D:\P125\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.pdb
+D:\P125\ClassObject\ClassObject\obj\Debug\netcoreapp3.1\ClassObject.genruntimeconfig.cache
